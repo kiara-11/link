@@ -1,0 +1,7 @@
+.conten{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 1px solid black ;
+    
+    
+}
